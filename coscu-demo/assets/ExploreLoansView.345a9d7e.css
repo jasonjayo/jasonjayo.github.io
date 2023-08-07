@@ -1,0 +1,1 @@
+#loan-enquiry{display:contents}.offer{grid-column:span 2}#offers{display:contents}@media (max-width: 1150px){.offer{grid-column:1/-1}}@media (max-width: 680px){.offer{flex-wrap:wrap}.offer__image{width:100%}}
